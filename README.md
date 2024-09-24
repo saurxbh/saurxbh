@@ -14,7 +14,7 @@ Feel free to check out the rest of my repos. It's mostly a mess, but rather make
 
 ### Tech Stack  
 - **Languages**: Python, C++, Java, JavaScript, C, Shell Scripting
-- **Web Development**: HTML, CSS, Express.js, React, NodeJS, Bootstrap, Tailwind CSS
+- **Web Development**: HTML5, CSS3, Express.js, React, Node.js, Bootstrap, Tailwind CSS
 - **Databases**: Oracle, MongoDB, MySQL, PostgreSQL, MS SQL Server
 - **Tools and Frameworks**: VS Code, IntelliJ, PyCharm, Git, Informatica, Jira, Spring Boot, Django
 
