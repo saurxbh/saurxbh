@@ -8,7 +8,7 @@ Here are some of the things that I have built:
 - [CRUD Demo App](https://www.github.com/saurxbh/crud-demo): I built this simple web application that provides CRUD functionalities using Java Spring Boot and React, and I used MySQL for the backend.
 - [Movies Review App](https://www.github.com/saurxbh/movies-review): Another web application I built using Java Spring Boot and React. I used MongoDB as backend to develop this IMDbesque application, albeit with only a couple features, viz. you can watch trailers in the player that pops up, without leaving the site, as well as you can post reviews.
 - [Products Store](https://www.github.com/saurxbh/products-store): Built this full-stack app using MERN stack, that uses React hooks and state management to dynamically update the UI upon updation and deletion.
-- [CRM Portal(https://www.github.com/saurxbh/crm-portal): 
+- [CRM Portal](https://www.github.com/saurxbh/crm-portal): Built this Customer Relationship Management portal using Python, Django and MySQL. Created a superuser as well for secure access control and streamlined data managemnt.
 - [Etch-A-Sketch](https://www.github.com/saurxbh/etch-a-sketch): Built this as part of The Odin Project, this course I am taking. Simple DOM Manipulation.
 - [Calculator](https://www.github.com/saurxbh/calculator): No one tells you how pesky it is to deal with operator precedence while evaluating expressions. Well, except maybe TOP. Another thing I built as part of the course using HTML, CSS and Vanilla JS.
 
